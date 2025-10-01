@@ -15,6 +15,8 @@ It displays:
 - LeetCode API
 
 ## 🌐 Live Demo
+[Click here](https://cors-anywhere.herokuapp.com/corsdemo)
+After getting request 
 [Click here](https://amankv1234.github.io/LEET_MATRIC_APP/)
 
 ## 📌 How to Use
