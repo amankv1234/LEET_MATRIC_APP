@@ -8,7 +8,7 @@ It displays:
 - 🔴 Hard solved
 
 ## 📸 Preview
-(Add screenshot here)
+![LeetMatric Preview](leetmatric.png)
 
 ## 🔧 Tech Stack
 - HTML, CSS, JavaScript
